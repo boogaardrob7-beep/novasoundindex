@@ -1,0 +1,22 @@
+﻿[
+    {
+        "slug":  "karaoke",
+        "title":  "Karaoke"
+    },
+    {
+        "slug":  "instrumental",
+        "title":  "Instrumental"
+    },
+    {
+        "slug":  "pop",
+        "title":  "Pop"
+    },
+    {
+        "slug":  "world",
+        "title":  "Wereldmuziek"
+    },
+    {
+        "slug":  "fx",
+        "title":  "Sound Effects"
+    }
+]

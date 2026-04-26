@@ -1,0 +1,26 @@
+﻿[
+    {
+        "count":  0,
+        "title":  "Karaoke",
+        "description":  "Instrumentals en backing tracks",
+        "slug":  "karaoke"
+    },
+    {
+        "count":  0,
+        "title":  "Wereldmuziek",
+        "description":  "Genres en instrumenten uit de hele wereld",
+        "slug":  "world"
+    },
+    {
+        "count":  0,
+        "title":  "Sound Effects",
+        "description":  "Whooshes, hits, ambience en meer",
+        "slug":  "fx"
+    },
+    {
+        "count":  0,
+        "title":  "Loops",
+        "description":  "Drumloops, melodielussen en ritmes",
+        "slug":  "loops"
+    }
+]
