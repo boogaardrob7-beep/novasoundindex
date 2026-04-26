@@ -1,15 +1,17 @@
-﻿{
-    "genre":  "pop",
-    "id":  "demo-0001",
-    "category":  "karaoke",
-    "tags":  [
-                 "karaoke",
-                 "instrumental",
-                 "pop"
-             ],
-    "bpm":  120,
-    "language":  "en",
-    "title":  "Voorbeeld Karaoke Track",
-    "duration":  210,
-    "file":  "/audio/demo/demo-track.wav"
-}
+[
+    {
+        "genre": "pop",
+        "id": "demo-0001",
+        "category": "karaoke",
+        "tags": [
+            "karaoke",
+            "instrumental",
+            "pop"
+        ],
+        "bpm": 120,
+        "language": "en",
+        "title": "Voorbeeld Karaoke Track",
+        "duration": 210,
+        "file": "/audio/demo/demo-track.wav"
+    }
+]
