@@ -1,6 +1,11 @@
 [build]
+  command = "npm run build"
   publish = "out"
-  command = "npm run build && npx next export"
 
-[functions]
-  directory = ""
+[build.environment]
+  NEXT_USE_NETLIFY_EDGE = "false"
+  NEXT_USE_NETLIFY_PLUGIN = "false"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+  enabled = false
